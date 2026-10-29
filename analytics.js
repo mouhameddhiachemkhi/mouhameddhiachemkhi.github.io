@@ -21,8 +21,8 @@
 (function () {
   "use strict";
 
-  const SUPABASE_URL = "https://oschpozvdrdpjlsgadgl.supabase.co";
-  const SUPABASE_KEY = "sb_publishable_QwU5OjJzlQY2RwnJ5q9XXw_olcDysTU";
+  const SUPABASE_URL = "https://vczmvyxxrdwrgfpigequ.supabase.co";
+  const SUPABASE_KEY = "sb_publishable_4JYPiVvcCUPFcC38QChYtA_av7Rlfdo";
 
   const VISITOR_KEY = "sg-visitor";
   const SESSION_KEY = "sg-session";

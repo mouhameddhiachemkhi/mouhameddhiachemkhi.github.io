@@ -275,8 +275,8 @@
    * ids, no usernames. It is the same key the app and the operator board
    * already carry.
    */
-  const SUPABASE_URL = "https://oschpozvdrdpjlsgadgl.supabase.co";
-  const SUPABASE_KEY = "sb_publishable_QwU5OjJzlQY2RwnJ5q9XXw_olcDysTU";
+  const SUPABASE_URL = "https://vczmvyxxrdwrgfpigequ.supabase.co";
+  const SUPABASE_KEY = "sb_publishable_4JYPiVvcCUPFcC38QChYtA_av7Rlfdo";
 
   /**
    * The rank ladder, weakest to strongest, with the colour the app draws that
